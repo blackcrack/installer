@@ -33,8 +33,8 @@ Requirements
 		oneye has its own virtual file system and does not require a database to work. You will however need the capability of uploading files and directories to the webspace and to be able to change folder permissions.
 	Client (Web Browser)
 		Your browser needs to be standards-compliant and support CSS. This includes the common modern browsers:
-			* Internet Explorer
-			* Mozilla Firefox
+			* Internet Explorer / Microsoft Edge
+			* Mozilla Firefox / Whaterfox / Pale Moon
 			* Google Chrome
 		Lower versions and other browsers may also work. We strongly recommend the use of up-to-date browsers to be able to use all oneye features!
 
